@@ -20,7 +20,7 @@ All our scripts are contained in directory that contains the files needed to run
 
 * Users need to install an integrated development environment (IDE), preferably, download Eclipse (go to https://www.eclipse.org/downloads/).
 
-* Download the public git repository (https://github.com/hrguarinv/FESRAS/tree/master/Framework_pss) in your local machine and then, import the repository downloaded as a "Existing Maven Project". 
+* Download the public git repository (https://github.com/hrguarinv/FESRAS/tree/master/Framework_pss) in your local machine and then, import the repository downloaded as an "Existing Maven Project" in Eclipse. 
 
 * Run the project opened in the IDE. The framework will show a JFrame (Java Frame). 
 
