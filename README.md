@@ -14,4 +14,16 @@ The main features of FESCARS are briefly described as follows:
 * **Map security objective.** The software framework must allow the user to map security objectives from the assets and operations extracted.
 * **Map security controls.** The software framework must allow the user to map security controls from the security objectives extracted.
 
+## Installation Instructions
 
+All our scripts are contained in directory that contains the files needed to run the software framework. Please follow the steps mentioned below:
+
+* Users need to install an integrated development environment (IDE), preferably, download Eclipse (go to https://www.eclipse.org/downloads/).
+
+* Download the public git repository (https://github.com/hrguarinv/FESRAS/tree/master/Framework_pss) in your local machine and then, import the repository downloaded as a "Existing Maven Project". 
+
+* Run the project opened in the IDE. The framework will show a JFrame (Java Frame). 
+
+* Please choose any of the TXT files (UserStory_1.txt, UserStory_2.txt, UserStory_3.txt) that are part of the root of the public repository downloaded.
+
+* Wait a few minutes for the output of the software framework (OWASP high-level requirements that address the security specification mentioned in the user story).
