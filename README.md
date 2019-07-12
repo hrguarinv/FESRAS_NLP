@@ -8,10 +8,10 @@ The goal of this work is to map OWASP high level security requirements from text
 
 The main features of FESCARS are briefly described as follows:
 
-* Insert file. The software framework must allow the user to load TXT and Word files.
-* Process file. The software framework must allow the user to read TXT and Word files that contain software behaviors (user stories).
-* [FR3] Extract assets and operations. The software framework must allow the user to process natural language to extract relevant verbs and nouns from the files.
-* [FR4] Map security objective. The software framework must allow the user to map security objectives from the assets and operations extracted.
-* [FR5] Map security controls. The software framework must allow the user to map security controls from the security objectives extracted.
+* **Insert file.** The software framework must allow the user to load TXT and Word files.
+* **Process file.** The software framework must allow the user to read TXT and Word files that contain software behaviors (user stories).
+* **Extract assets and operations.** The software framework must allow the user to process natural language to extract relevant verbs and nouns from the files.
+* **Map security objective.** The software framework must allow the user to map security objectives from the assets and operations extracted.
+* **Map security controls.** The software framework must allow the user to map security controls from the security objectives extracted.
 
 
