@@ -1,0 +1,1 @@
+As a admin, I want to delete the personal information of customers so I can keep depured my database.  
