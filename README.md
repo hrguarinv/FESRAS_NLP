@@ -4,7 +4,7 @@ This repository contains the files of the Software Framework for Eliciting Secur
 In the following we describe the main purpose of the framework.
 
 ## Objective
-The goal of this work is to map OWASP high level security requirements from text documents that describe desired software behaviors (user stories) in the context of agile methods.
+The goal of this work is to map OWASP high-level security requirements from text documents that describe desired software behaviors (user stories) in the context of agile methods.
 
 The main features of FESCARS are briefly described as follows:
 
